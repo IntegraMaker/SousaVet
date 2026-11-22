@@ -14,6 +14,10 @@
 - Catálogo dos formulários, campos por tipo e amostras manuscritas autorizadas.
 - Escolha do provedor ou processamento local e critérios de avaliação da transcrição.
 
+## Fluxo
+
+Cadastrar tipos de teste e associar o tipo reconhecido ao documento. Processar a extração simulada e vincular o resultado ao original. Disponibilizar o texto sugerido para revisão humana.
+
 ## Critérios de aceite
 
 - Um formulário sintético reconhecido recebe a referência ao tipo; um tipo desconhecido não é atribuído arbitrariamente.

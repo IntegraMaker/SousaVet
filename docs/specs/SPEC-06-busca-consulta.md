@@ -13,6 +13,10 @@
 - Confirmar campos e significados dos filtros nos formulários reais, inclusive a data que define o período e a referência para idade.
 - Confirmar visibilidade por perfil e estado da ficha, além de eventuais regras de desidentificação.
 
+## Fluxo
+
+O usuário autorizado localiza o animal ou aplica filtros às fichas. O servidor delimita os resultados acessíveis e reavalia o acesso ao abrir detalhes e imagens.
+
 ## Critérios de aceite
 
 - Consultar um histórico sintético e aplicar filtros sobre campos de teste com resultados reproduzíveis.

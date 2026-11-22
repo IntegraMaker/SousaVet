@@ -54,6 +54,8 @@ A estrutura é uma **referência**, não uma ordem para implementar tudo imediat
 
 ## 5. Processo obrigatório por Issue
 
+Trabalhe em uma Issue por vez, seguindo a ordem e as dependências do PLAN.
+
 1. Consultar a SPEC e a Issue; confirmar dependências e critérios de aceite.
 2. Explicar brevemente ao estudante o objetivo e os conceitos envolvidos.
 3. Implementar **somente** o escopo autorizado, usando Claude Code como assistente, preservando a participação do estudante.
@@ -61,7 +63,7 @@ A estrutura é uma **referência**, não uma ordem para implementar tudo imediat
 5. Registrar o commit de implementação e seu hash.
 6. Aplicar a **validação pedagógica** descrita na seção 6.
 7. Registrar na Issue os testes, os conceitos avaliados, as dificuldades, o resultado do microdesafio e os hashes dos commits.
-8. O estudante **pode fechar a própria Issue**, sem aprovação individual do professor, **somente após as validações técnica e pedagógica**. Atualizar o GitHub Projects para Concluído quando possível.
+8. O estudante **pode fechar a própria Issue**, sem aprovação individual do professor, **somente após as validações técnica e pedagógica**. Atualizar o GitHub Projects para Done (Concluído) quando possível.
 
 Não declarar testes executados sem executá-los. Não fechar Issues com critérios pendentes.
 

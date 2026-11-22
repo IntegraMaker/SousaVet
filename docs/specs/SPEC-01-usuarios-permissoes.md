@@ -13,6 +13,10 @@
 - Confirmar a matriz de permissões com o hospital, incluindo quem pode ver, corrigir, encaminhar, revisar e validar fichas.
 - A especificação registra a necessidade de autenticação. Detalhes do acesso institucional que não constam no briefing permanecem em aberto.
 
+## Fluxo
+
+O usuário se autentica, recebe uma sessão e solicita uma operação. O servidor verifica a sessão e a permissão daquela ação sobre o recurso. Encerrar a sessão retira o acesso vinculado a ela.
+
 ## Critérios de aceite
 
 - Uma conta sintética autenticada acessa uma operação de acordo com a permissão de teste.

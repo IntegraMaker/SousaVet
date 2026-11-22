@@ -14,6 +14,10 @@
 - Confirmar formatos dos identificadores existentes, modelos, campos e regras de preenchimento a partir de amostras autorizadas.
 - Confirmar o tratamento de situações com identificação ambígua ou ilegível antes de definir regras de reconciliação.
 
+## Fluxo
+
+Registrar um animal com identificador geral e vincular a ele as fichas encontradas. Ao adicionar uma página, selecionar a ficha correspondente e preservar seu vínculo no histórico do animal.
+
 ## Critérios de aceite
 
 - A partir do identificador do animal, recuperar duas ou mais fichas do mesmo histórico sem incluir fichas de outro animal.

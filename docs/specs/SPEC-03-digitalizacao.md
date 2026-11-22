@@ -14,6 +14,10 @@
 - Detecção automática de bordas depende de viabilidade. O ajuste manual é o fluxo de referência.
 - Confirmar formatos, limites de upload e cenários de captura com amostras autorizadas. Configurações de teste usam imagens sintéticas.
 
+## Fluxo
+
+Selecionar uma ficha e capturar ou enviar suas imagens. O servidor valida os arquivos e grava os originais sob controle de acesso. O operador pode ajustar os cantos de cada página e consultar a versão corrigida vinculada ao original.
+
 ## Critérios de aceite
 
 - Capturar frente e verso de uma ficha sintética e recuperar ambos os originais com acesso autorizado.

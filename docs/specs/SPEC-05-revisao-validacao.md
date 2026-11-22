@@ -15,6 +15,10 @@
 - Quem pode revisar ou encaminhar em cada perfil.
 - Confirmar regras de reabertura e edição após validação. Usar permissões sintéticas para verificar operações já definidas.
 
+## Fluxo
+
+Abrir o original e comparar com o texto sugerido; corrigir diretamente ou encaminhar conforme a autorização. Registrar a revisão quando concluída. Um profissional habilitado confere a fidelidade e registra a validação separadamente.
+
 ## Critérios de aceite
 
 - Uma correção autorizada fica registrada como revisão e mantém a referência ao original.
